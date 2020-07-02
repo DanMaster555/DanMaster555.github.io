@@ -1,0 +1,10 @@
+body {
+    background-image: url(https://m.blog.hu/fi/filmekesjatekok/image/avengers-infinity-war-logo-joe-steiner_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+td {
+    color: lawngreen;
+    font-size: 40px;
+}

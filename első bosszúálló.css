@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://vignette.wikia.nocookie.net/captain-america/images/b/be/Captain_America-01.jpg/revision/latest?cb=20140306042230);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 625px;
+}
+
+td {
+    color: lawngreen;
+    font-size: 40px;
+}

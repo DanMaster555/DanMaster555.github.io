@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://www.groovement.co.uk/wp-content/uploads/2013/10/Screen-shot-2013-10-24-at-22.22.16.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 609px;
+}
+
+td {
+    color: lawngreen;
+    font-size: 40px;
+}
